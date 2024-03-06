@@ -1,0 +1,52 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  #kam {
+    font-size: 250%;
+    text-align: left;
+    vertical-align: top;
+    font-family:"Playfair display";
+    font-weight:80;
+    color: #202020;
+  }
+  #kam2 {
+    font-size: 250%;
+    text-align: right;
+    vertical-align: top;
+    font-family:"Playfair display";
+    font-weight:80;
+    color: #202020;
+  }
+  
+  #kam3 {
+    font-size: 250%;
+    text-align: center;
+    vertical-align: top;
+    font-family:"Playfair display";
+    font-weight:80;
+    color: #202020;
+  }
+  
+  #kreisi {
+    text-align: left;
+    vertical-align: top;
+    font-weight: 50;
+    font-family: "open sans";
+    font-size: 130%;
+    color: #404040;
+  }
+  #labi {
+    text-align: right;
+    vertical-align: top;
+    font-weight: 50;
+    font-family: "open sans";
+    font-size: 130%;
+    color: #404040;
+  }
+  
+  #tukss {
+    opacity: 0%;
+  }
+  
+  
